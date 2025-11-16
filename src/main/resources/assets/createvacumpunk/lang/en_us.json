@@ -1,0 +1,9 @@
+{
+  "itemGroup.createvacumpunk": "Create:Vacuum Punk",
+  "block.createvacumpunk.coils": "Coil Block",
+  "block.createvacumpunk.vaccumtube_l": "Large Vacuum Tube",
+  "block.createvacumpunk.capacitor_l": "Large Capacitor",
+  "block.createvacumpunk.resistor_l": "Large Resistor",
+  "block.createvacumpunk.inductorl": "Large Inductor",
+  "block.createvacumpunk.magnet_l": "Large Ferrite Magnet"
+}

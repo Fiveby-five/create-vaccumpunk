@@ -1,0 +1,9 @@
+{
+  "itemGroup.createvacumpunk": "机械动力:真空朋克",
+  "block.createvacumpunk.coils": "线圈",
+  "block.createvacumpunk.vaccumtube_l": "大型真空管",
+  "block.createvacumpunk.capacitor_l": "大型电容",
+  "block.createvacumpunk.resistor_l": "大型电阻",
+  "block.createvacumpunk.inductorl": "大型电感",
+  "block.createvacumpunk.magnet_l": "大型铁氧体磁体"
+}
