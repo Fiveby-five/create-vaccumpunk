@@ -5,5 +5,7 @@
   "block.createvacumpunk.capacitor_l": "Large Capacitor",
   "block.createvacumpunk.resistor_l": "Large Resistor",
   "block.createvacumpunk.inductorl": "Large Inductor",
-  "block.createvacumpunk.magnet_l": "Large Ferrite Magnet"
+  "block.createvacumpunk.magnet_l": "Large Ferrite Magnet",
+  "block.createvacumpunk.connector": "Connector",
+  "block.createvacumpunk.socketboard": "Socket Board"
 }

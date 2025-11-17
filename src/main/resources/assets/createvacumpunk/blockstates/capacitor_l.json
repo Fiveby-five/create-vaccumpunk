@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "createvacumpunk:block/capacitor_l/capacitor_l" },
+    "facing=east": { "model": "createvacumpunk:block/capacitor_l/capacitor_l", "y": 90 },
+    "facing=south": { "model": "createvacumpunk:block/capacitor_l/capacitor_l", "y": 180 },
+    "facing=west": { "model": "createvacumpunk:block/capacitor_l/capacitor_l", "y": 270 }
+  }
+}

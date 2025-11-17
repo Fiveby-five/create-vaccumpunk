@@ -1,0 +1,439 @@
+{
+  "variants": {
+    "facing=north,north=false,south=false,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/none"
+      }
+    },
+    "facing=north,north=false,south=false,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/e"
+      }
+    },
+    "facing=north,north=false,south=false,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/w"
+      }
+    },
+    "facing=north,north=false,south=false,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ew"
+      }
+    },
+    "facing=north,north=false,south=true,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/s"
+      }
+    },
+    "facing=north,north=false,south=true,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/se"
+      }
+    },
+    "facing=north,north=false,south=true,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/sw"
+      }
+    },
+    "facing=north,north=false,south=true,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/sew"
+      }
+    },
+    "facing=north,north=true,south=false,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/n"
+      }
+    },
+    "facing=north,north=true,south=false,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ne"
+      }
+    },
+    "facing=north,north=true,south=false,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nw"
+      }
+    },
+    "facing=north,north=true,south=false,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/new"
+      }
+    },
+    "facing=north,north=true,south=true,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ns"
+      }
+    },
+    "facing=north,north=true,south=true,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nse"
+      }
+    },
+    "facing=north,north=true,south=true,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nsw"
+      }
+    },
+    "facing=north,north=true,south=true,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nesw"
+      }
+    },
+    
+    "facing=south,north=false,south=false,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/none"
+      }
+    },
+    "facing=south,north=false,south=false,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/e"
+      }
+    },
+    "facing=south,north=false,south=false,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/w"
+      }
+    },
+    "facing=south,north=false,south=false,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ew"
+      }
+    },
+    "facing=south,north=false,south=true,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/s"
+      }
+    },
+    "facing=south,north=false,south=true,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/se"
+      }
+    },
+    "facing=south,north=false,south=true,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/sw"
+      }
+    },
+    "facing=south,north=false,south=true,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/sew"
+      }
+    },
+    "facing=south,north=true,south=false,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/n"
+      }
+    },
+    "facing=south,north=true,south=false,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ne"
+      }
+    },
+    "facing=south,north=true,south=false,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nw"
+      }
+    },
+    "facing=south,north=true,south=false,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/new"
+      }
+    },
+    "facing=south,north=true,south=true,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ns"
+      }
+    },
+    "facing=south,north=true,south=true,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nse"
+      }
+    },
+    "facing=south,north=true,south=true,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nsw"
+      }
+    },
+    "facing=south,north=true,south=true,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 180,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nesw"
+      }
+    },
+    
+    "facing=west,north=false,south=false,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/none"
+      }
+    },
+    "facing=west,north=false,south=false,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/e"
+      }
+    },
+    "facing=west,north=false,south=false,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/w"
+      }
+    },
+    "facing=west,north=false,south=false,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ew"
+      }
+    },
+    "facing=west,north=false,south=true,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/s"
+      }
+    },
+    "facing=west,north=false,south=true,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/se"
+      }
+    },
+    "facing=west,north=false,south=true,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/sw"
+      }
+    },
+    "facing=west,north=false,south=true,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/sew"
+      }
+    },
+    "facing=west,north=true,south=false,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/n"
+      }
+    },
+    "facing=west,north=true,south=false,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ne"
+      }
+    },
+    "facing=west,north=true,south=false,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nw"
+      }
+    },
+    "facing=west,north=true,south=false,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/new"
+      }
+    },
+    "facing=west,north=true,south=true,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ns"
+      }
+    },
+    "facing=west,north=true,south=true,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nse"
+      }
+    },
+    "facing=west,north=true,south=true,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nsw"
+      }
+    },
+    "facing=west,north=true,south=true,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 270,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nesw"
+      }
+    },
+    
+    "facing=east,north=false,south=false,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/none"
+      }
+    },
+    "facing=east,north=false,south=false,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/e"
+      }
+    },
+    "facing=east,north=false,south=false,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/w"
+      }
+    },
+    "facing=east,north=false,south=false,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ew"
+      }
+    },
+    "facing=east,north=false,south=true,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/s"
+      }
+    },
+    "facing=east,north=false,south=true,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/se"
+      }
+    },
+    "facing=east,north=false,south=true,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/sw"
+      }
+    },
+    "facing=east,north=false,south=true,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/sew"
+      }
+    },
+    "facing=east,north=true,south=false,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/n"
+      }
+    },
+    "facing=east,north=true,south=false,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ne"
+      }
+    },
+    "facing=east,north=true,south=false,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nw"
+      }
+    },
+    "facing=east,north=true,south=false,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/new"
+      }
+    },
+    "facing=east,north=true,south=true,west=false,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/ns"
+      }
+    },
+    "facing=east,north=true,south=true,west=false,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nse"
+      }
+    },
+    "facing=east,north=true,south=true,west=true,east=false": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nsw"
+      }
+    },
+    "facing=east,north=true,south=true,west=true,east=true": { 
+      "model": "createvacumpunk:block/socketboard/socketboard",
+      "y": 90,
+      "textures": {
+        "all": "createvacumpunk:block/socketboard/nesw"
+      }
+    }
+  }
+}

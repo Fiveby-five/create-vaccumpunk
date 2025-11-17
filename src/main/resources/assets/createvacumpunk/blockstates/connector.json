@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=down": { "model": "createvacumpunk:block/connector/connector", "x": 180 },
+    "facing=east": { "model": "createvacumpunk:block/connector/connector", "x": 90, "y": 90 },
+    "facing=north": { "model": "createvacumpunk:block/connector/connector", "x": 90 },
+    "facing=south": { "model": "createvacumpunk:block/connector/connector", "x": 90, "y": 180 },
+    "facing=up": { "model": "createvacumpunk:block/connector/connector" },
+    "facing=west": { "model": "createvacumpunk:block/connector/connector", "x": 90, "y": 270 }
+  }
+}

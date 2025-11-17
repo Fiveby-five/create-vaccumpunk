@@ -5,5 +5,7 @@
   "block.createvacumpunk.capacitor_l": "大型电容",
   "block.createvacumpunk.resistor_l": "大型电阻",
   "block.createvacumpunk.inductorl": "大型电感",
-  "block.createvacumpunk.magnet_l": "大型铁氧体磁体"
+  "block.createvacumpunk.magnet_l": "大型铁氧体磁体",
+  "block.createvacumpunk.connector": "连接器",
+  "block.createvacumpunk.socketboard": "插板"
 }

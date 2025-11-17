@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "createvacumpunk:block/resistor_l/resistor_l" },
+    "facing=east": { "model": "createvacumpunk:block/resistor_l/resistor_l", "y": 90 },
+    "facing=south": { "model": "createvacumpunk:block/resistor_l/resistor_l", "y": 180 },
+    "facing=west": { "model": "createvacumpunk:block/resistor_l/resistor_l", "y": 270 }
+  }
+}

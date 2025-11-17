@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "createvacumpunk:block/inductorl/inductorl" },
+    "facing=east": { "model": "createvacumpunk:block/inductorl/inductorl", "y": 90 },
+    "facing=south": { "model": "createvacumpunk:block/inductorl/inductorl", "y": 180 },
+    "facing=west": { "model": "createvacumpunk:block/inductorl/inductorl", "y": 270 }
+  }
+}
